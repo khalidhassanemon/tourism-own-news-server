@@ -1,0 +1,341 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "01",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Burj Al Arab, Dubai",
+        "architect": {
+            "name": "Tom Wright",
+            "Opended_date": "1999-02-1999 23:15:00",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Tom_Wright_Architect_Photo.JPG/800px-Tom_Wright_Architect_Photo.JPG"
+        },
+        "image_url": "https://www.trawell.in/admin/images/upload/127010293Burj_Al_Arab.jpg",
+        "details": "The Burj Al Arab hotel has a 180 meter high atrium, the world’s largest Swarovski crystal ceiling and a helipad. The interior has been decorated with around 1,800 square meters of 24-carat gold leaf.Several features of the hotel required complex engineering feats to achieve. The hotel rests on an artificial island constructed 280 m (920 ft) offshore. To secure a foundation, the builders drove 230 40-metre-long (130 ft) concrete piles into the sand by drilling method.Engineers created a ground surface layer of large rocks, which is circled with a concrete honeycomb pattern, which serves to protect the foundation from erosion. It took three years to reclaim the land from the sea, while it took fewer than three years to construct the building itself. The building contains over 70,000 m3 (92,000 cu yd) of concrete and 9,000 tons of steel, one of which are for the skeletal structural frames"
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "03",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Burj Al Arab, Dubai",
+        "architect": {
+            "name": "Tom Wright",
+            "Opended_date": "1999-02-1999 23:15:00",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Tom_Wright_Architect_Photo.JPG/800px-Tom_Wright_Architect_Photo.JPG"
+        },
+        "image_url": "https://www.trawell.in/admin/images/upload/127010293Burj_Al_Arab.jpg",
+        "details": "The Burj Al Arab hotel has a 180 meter high atrium, the world’s largest Swarovski crystal ceiling and a helipad. The interior has been decorated with around 1,800 square meters of 24-carat gold leaf."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "02",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Conrad Maldives Rangali Island",
+        "architect": {
+            "name": "Yuji Yamazaki",
+            "Opended_date": "1997-02-02 16:38:45",
+            "img": "https://ppwww.phys.sci.kobe-u.ac.jp/member/img/yamazaki.jpg"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://api.time.com/wp-content/uploads/2018/08/conrad-maldives-rangali-island-worlds-greatest-places-20181.jpg",
+        "details": "Located on Rangali island, the Conrad Maldives is famous for its underwater dining room, one of the most luxurious restaurants in the world. There are twelve restaurants in all and an over-water spa.For a true bucket list experience, The two-level Muraka Suite boasts a master bedroom 16 feet below sea level. With floor to ceiling windows, this is a great way to see the local marine life."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "05",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Conrad Maldives Rangali Island",
+        "architect": {
+            "name": "Yuji Yamazaki",
+            "Opended_date": "1997-02-02 16:38:45",
+            "img": "https://ppwww.phys.sci.kobe-u.ac.jp/member/img/yamazaki.jpg"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://api.time.com/wp-content/uploads/2018/08/conrad-maldives-rangali-island-worlds-greatest-places-20181.jpg",
+        "details": "Located on Rangali island, the Conrad Maldives is famous for its underwater dining room, one of the most luxurious restaurants in the world. There are twelve restaurants in all and an over-water spa.For a true bucket list experience, The two-level Muraka Suite boasts a master bedroom 16 feet below sea level. With floor to ceiling windows, this is a great way to see the local marine life."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "01",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Conrad Maldives Rangali Island",
+        "architect": {
+            "name": "Yuji Yamazaki",
+            "Opended_date": "1997-02-02 16:38:45",
+            "img": "https://ppwww.phys.sci.kobe-u.ac.jp/member/img/yamazaki.jpg"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://api.time.com/wp-content/uploads/2018/08/conrad-maldives-rangali-island-worlds-greatest-places-20181.jpg",
+        "details": "Located on Rangali island, the Conrad Maldives is famous for its underwater dining room, one of the most luxurious restaurants in the world. There are twelve restaurants in all and an over-water spa.For a true bucket list experience, The two-level Muraka Suite boasts a master bedroom 16 feet below sea level. With floor to ceiling windows, this is a great way to see the local marine life."
+    },
+    {
+        "_id": "f69a695f037cd9484cecaea37ca71011",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "03",
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "total_view": 400,
+        "title": "Taj Lake Palace, India",
+        "architect": {
+            "name": "Rajput architecture",
+            "Opended_date": "1743-08-30 16:38:45",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://img.traveltriangle.com/blog/wp-content/uploads/2018/01/shutterstock_536597029.jpg",
+        "details": "One of the most famous floating hotels in India, the Taj Lake Palace has an illustrious history. Originally known as Jag Niwas palace, the property was commissioned by Prince Maharana Jagat Singh and completed in 1746.Immortalized in the James Bond movie Octopussy, the Taj Lake Palace hotel has an incredible location on Lake Pichola in Udaipur. There are 65 rooms and 18 grand suites, together with 4 restaurants."
+    },
+    {
+        "_id": "f69a695f037cd9484cecaea37ca71011",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "03",
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "total_view": 400,
+        "title": "Taj Lake Palace, India",
+        "architect": {
+            "name": "Rajput architecture",
+            "Opended_date": "1743-08-30 16:38:45",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://img.traveltriangle.com/blog/wp-content/uploads/2018/01/shutterstock_536597029.jpg",
+        "details": "One of the most famous floating hotels in India, the Taj Lake Palace has an illustrious history. Originally known as Jag Niwas palace, the property was commissioned by Prince Maharana Jagat Singh and completed in 1746.Immortalized in the James Bond movie Octopussy, the Taj Lake Palace hotel has an incredible location on Lake Pichola in Udaipur. There are 65 rooms and 18 grand suites, together with 4 restaurants."
+    },
+    {
+        "_id": "f69a695f037cd9484cecaea37ca71012",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "04",
+        "rating": {
+            "number": 4.3,
+            "badge": "Excellent"
+        },
+        "total_view": 400,
+        "title": " Amilla Glamping, Maldives",
+        "architect": {
+            "name": "Amillia Maldip",
+            "Opended_date": "2010-08-30 16:38:45",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/05/ac/e1/a-night-under-the-stars.jpg",
+        "details": "The home of entrepreneur Richard Branson, Necker Island is a luxurious Caribbean retreat. The 74 acre private island has 3 well appointed villas. They can be rented individually or you can book the whole island for exclusive use.The BVI are among the best Caribbean islands, thanks to their raw beauty and unspoiled beaches. Guests of Necker Island get a prime view of the surrounding area from the Crow’s Nest hottub.Richard Branson was made aware that some of the islands in the British Virgin Islands were for sale in 1978. Branson soon after went to the British Virgin Islands for a holiday to investigate the prospective real estate. On first observing the islands, he envisioned using them to put up rock stars for his record label. Upon arrival, they were given a luxury villa and travelled around islands for sale by helicopter. The final island he saw was Necker Island, and after climbing the hill and being stunned by the view and wildlife, decided to purchase the island. After making a lowball bid of $100,000 for the island (due to his relatively modest funds at that time in his career), he was turned down and escorted back to the mainland. A year later, the owner, John Lyttelton, 11th Viscount Cobham, in need of short-term capital, eventually settled for $120,000.[11][a] However, the government imposed a restriction on alien landholders: that the new owner had to develop a resort within four years or the island would revert to the state. Branson committed to building a resort on the island."
+    },
+    {
+        "_id": "f69a695f037cd9484cecaea37ca71012",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "03",
+        "rating": {
+            "number": 4.3,
+            "badge": "Excellent"
+        },
+        "total_view": 400,
+        "title": " Amilla Glamping, Maldives",
+        "architect": {
+            "name": "Amillia Maldip",
+            "Opended_date": "2010-08-30 16:38:45",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/05/ac/e1/a-night-under-the-stars.jpg",
+        "details": "One of the most luxurious places to stay in the Maldives,Amilla Maldives Resort is a lush paradise of bougainvillea flowers and white sand beaches.Situated in the Baa Atoll UNESCO World Biosphere Reserve, the area is known for its diving. Spot mantas and whale sharks in the crystal clear water.There are several Instagrammable accommodations on Amilla Fushi. The most unusual are the three bubble tents, for a refined glamping experience.These climate-controlled inflatable pods offer 360 degree views of the scenery. There are also some of the most spacious Maldives pool villas, which start at 200 square meters."
+    },
+    {
+        "_id": "11468ed61aee84de492a8b04158a22f9",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+        },
+        "category_id": "05",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 980,
+        "title": "Necker Island, British Virgin Islands",
+        "architect": {
+            "name": "Richard Branson",
+            "Opended_date": "2012-08-24 23:15:00",
+            "img": "https://miro.medium.com/max/1000/1*4Mus3xmxYkx1CcEqr8u6Tw.jpeg"
+        },
+        "image_url": "https://www.virginlimitededition.com/media/pages/necker-island/gallery/1191121859-1666779231/necker-island-the-great-house-overview-2.jpg",
+        "details": "The home of entrepreneur Richard Branson, Necker Island is a luxurious Caribbean retreat. The 74 acre private island has 3 well appointed villas. They can be rented individually or you can book the whole island for exclusive use.The BVI are among the best Caribbean islands, thanks to their raw beauty and unspoiled beaches. Guests of Necker Island get a prime view of the surrounding area from the Crow’s Nest hottub."
+    },
+    {
+        "_id": "11468ed61aee84de492a8b04158a22f9",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+        },
+        "category_id": "04",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 980,
+        "title": "Necker Island, British Virgin Islands",
+        "architect": {
+            "name": "Richard Branson",
+            "Opended_date": "2012-08-24 23:15:00",
+            "img": "https://miro.medium.com/max/1000/1*4Mus3xmxYkx1CcEqr8u6Tw.jpeg"
+        },
+        "image_url": "https://www.virginlimitededition.com/media/pages/necker-island/gallery/1191121859-1666779231/necker-island-the-great-house-overview-2.jpg",
+        "details": "The home of entrepreneur Richard Branson, Necker Island is a luxurious Caribbean retreat. The 74 acre private island has 3 well appointed villas. They can be rented individually or you can book the whole island for exclusive use.The BVI are among the best Caribbean islands, thanks to their raw beauty and unspoiled beaches. Guests of Necker Island get a prime view of the surrounding area from the Crow’s Nest hottub.Richard Branson was made aware that some of the islands in the British Virgin Islands were for sale in 1978. Branson soon after went to the British Virgin Islands for a holiday to investigate the prospective real estate. On first observing the islands, he envisioned using them to put up rock stars for his record label. Upon arrival, they were given a luxury villa and travelled around islands for sale by helicopter. The final island he saw was Necker Island, and after climbing the hill and being stunned by the view and wildlife, decided to purchase the island. After making a lowball bid of $100,000 for the island (due to his relatively modest funds at that time in his career), he was turned down and escorted back to the mainland. A year later, the owner, John Lyttelton, 11th Viscount Cobham, in need of short-term capital, eventually settled for $120,000.[11][a] However, the government imposed a restriction on alien landholders: that the new owner had to develop a resort within four years or the island would revert to the state. Branson committed to building a resort on the island."
+    },
+    {
+        "_id": "11468ed61aee84de492a8b04158a22f0",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+        },
+        "category_id": "06",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 980,
+        "title": "The Chedi Andermatt, Switzerland",
+        "architect": {
+            "name": " Japanese Restaurant",
+            "Opended_date": "2017-08-24 23:15:00",
+            "img": "https://media.istockphoto.com/id/591404436/photo/japanese-man-looking-at-camera.jpg?s=612x612&w=0&k=20&c=Iz0SsI6SgOl3fNlaMQyqV89ely88JN1mICjrVaDmbx0="
+        },
+        "image_url": "https://www.telegraph.co.uk/content/dam/Travel/hotels/europe/switzerland/the-chedi-andermatt-switzerland-l-xlarge.jpg?imwidth=680",
+        "details": "You wouldn’t expect to find a luxury 5 star hotel in a quaint skiing village, but The Chedi Andermatt is a welcome surprise. The award-winning spa is spread over 2,400 square meters and has indoor and outdoor pools.There are five dining options including the Japanese Restaurant, which has one Michelin star. Every one of the 123 rooms and suites at The Chedi has its own fireplace.At 1,447 meters above sea level, this exclusive luxury hotel in Switzerland will enchant you with its 123 elegant rooms and suites, five outstanding restaurants and bars, a modern Health Club, a unique wine cellar and exceptional spa area. Whether skiing on world-class slopes, biking, hiking or golfing – our hotel offers spectacular adventures in the Andermatt mountains at any time of the year. The Chedi Andermatt has received the best possible rating by Forbes Travel Guide 2022, making it again one of the best hotels in Europe."
+    },
+    {
+        "_id": "11468ed61aee84de492a8b04158a22f0",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+        },
+        "category_id": "04",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 980,
+        "title": "The Chedi Andermatt, Switzerland",
+        "architect": {
+            "name": " Japanese Restaurant",
+            "Opended_date": "2017-08-24 23:15:00",
+            "img": "https://media.istockphoto.com/id/591404436/photo/japanese-man-looking-at-camera.jpg?s=612x612&w=0&k=20&c=Iz0SsI6SgOl3fNlaMQyqV89ely88JN1mICjrVaDmbx0="
+        },
+        "image_url": "https://www.telegraph.co.uk/content/dam/Travel/hotels/europe/switzerland/the-chedi-andermatt-switzerland-l-xlarge.jpg?imwidth=680",
+        "details": "You wouldn’t expect to find a luxury 5 star hotel in a quaint skiing village, but The Chedi Andermatt is a welcome surprise. The award-winning spa is spread over 2,400 square meters and has indoor and outdoor pools.There are five dining options including the Japanese Restaurant, which has one Michelin star. Every one of the 123 rooms and suites at The Chedi has its own fireplace.At 1,447 meters above sea level, this exclusive luxury hotel in Switzerland will enchant you with its 123 elegant rooms and suites, five outstanding restaurants and bars, a modern Health Club, a unique wine cellar and exceptional spa area. Whether skiing on world-class slopes, biking, hiking or golfing – our hotel offers spectacular adventures in the Andermatt mountains at any time of the year. The Chedi Andermatt has received the best possible rating by Forbes Travel Guide 2022, making it again one of the best hotels in Europe."
+    },
+    {
+        "_id": "11468ed61aee84de492a8b04158a22f0",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+        },
+        "category_id": "02",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 980,
+        "title": "The Chedi Andermatt, Switzerland",
+        "architect": {
+            "name": " Japanese Restaurant",
+            "Opended_date": "2017-08-24 23:15:00",
+            "img": "https://media.istockphoto.com/id/591404436/photo/japanese-man-looking-at-camera.jpg?s=612x612&w=0&k=20&c=Iz0SsI6SgOl3fNlaMQyqV89ely88JN1mICjrVaDmbx0="
+        },
+        "image_url": "https://www.telegraph.co.uk/content/dam/Travel/hotels/europe/switzerland/the-chedi-andermatt-switzerland-l-xlarge.jpg?imwidth=680",
+        "details": "You wouldn’t expect to find a luxury 5 star hotel in a quaint skiing village, but The Chedi Andermatt is a welcome surprise. The award-winning spa is spread over 2,400 square meters and has indoor and outdoor pools.There are five dining options including the Japanese Restaurant, which has one Michelin star. Every one of the 123 rooms and suites at The Chedi has its own fireplace."
+    },
+    {
+        "_id": "11468ed61aee84de492a8b04158a22f0",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+        },
+        "category_id": "01",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 980,
+        "title": "The Chedi Andermatt, Switzerland",
+        "architect": {
+            "name": " Japanese Restaurant",
+            "Opended_date": "2017-08-24 23:15:00",
+            "img": "https://media.istockphoto.com/id/591404436/photo/japanese-man-looking-at-camera.jpg?s=612x612&w=0&k=20&c=Iz0SsI6SgOl3fNlaMQyqV89ely88JN1mICjrVaDmbx0="
+        },
+        "image_url": "https://www.telegraph.co.uk/content/dam/Travel/hotels/europe/switzerland/the-chedi-andermatt-switzerland-l-xlarge.jpg?imwidth=680",
+        "details": "You wouldn’t expect to find a luxury 5 star hotel in a quaint skiing village, but The Chedi Andermatt is a welcome surprise. The award-winning spa is spread over 2,400 square meters and has indoor and outdoor pools.There are five dining options including the Japanese Restaurant, which has one Michelin star. Every one of the 123 rooms and suites at The Chedi has its own fireplace."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "06",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Burj Al Arab, Dubai",
+        "architect": {
+            "name": "Tom Wright",
+            "Opended_date": "1999-02-1999 23:15:00",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Tom_Wright_Architect_Photo.JPG/800px-Tom_Wright_Architect_Photo.JPG"
+        },
+        "image_url": "https://www.trawell.in/admin/images/upload/127010293Burj_Al_Arab.jpg",
+        "details": "The Burj Al Arab hotel has a 180 meter high atrium, the world’s largest Swarovski crystal ceiling and a helipad. The interior has been decorated with around 1,800 square meters of 24-carat gold leaf.Several features of the hotel required complex engineering feats to achieve. The hotel rests on an artificial island constructed 280 m (920 ft) offshore. To secure a foundation, the builders drove 230 40-metre-long (130 ft) concrete piles into the sand by drilling method.Engineers created a ground surface layer of large rocks, which is circled with a concrete honeycomb pattern, which serves to protect the foundation from erosion. It took three years to reclaim the land from the sea, while it took fewer than three years to construct the building itself. The building contains over 70,000 m3 (92,000 cu yd) of concrete and 9,000 tons of steel, one of which are for the skeletal structural frames"
+    }
+]

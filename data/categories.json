@@ -1,0 +1,30 @@
+[
+    {
+      "id": "01",
+      "name": "Diamond Type"
+    },
+    {
+      "id": "02",
+      "name": "Gold Type"
+    },
+    {
+      "id": "03",
+      "name": "Bronze Type"
+    },
+    {
+      "id": "04",
+      "name": "Platinum Type"
+    },
+    {
+      "id": "05",
+      "name": "Dynamite Type"
+    },
+    {
+      "id": "06",
+      "name": "Aluminum Type"
+    },
+    {
+      "id": "08",
+      "name": "All Type"
+    }
+  ]
